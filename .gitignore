@@ -1,0 +1,11 @@
+_site/
+_draft/
+.jekyll-cache/
+.venv
+*.pyc
+Gemfile.lock
+.env
+script/medium/
+.DS_Store
+script/markdown_parser.py
+script/downloader.py
