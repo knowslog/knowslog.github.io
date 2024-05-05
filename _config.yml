@@ -74,4 +74,10 @@ plugins:
 tracker:
   google_analytics: "G-0KYQBFPZCD"
 
+collections:
+  pages:
+    output: true
+    sort_by: date
+    permalink: /:collection/:year-:month-:day-:title:output_ext
+
 github_username: tourbut
