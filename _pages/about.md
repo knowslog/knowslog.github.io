@@ -2,8 +2,8 @@
 title: About
 author: Sungcheol Shin
 date: 2024-04-29
-category: Jekyll
+category: about
 layout: post
 ---
 
-This is an about page.
+mail : scshin88@gmail.com
