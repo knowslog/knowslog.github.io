@@ -1,5 +1,10 @@
-# GPT-4o 및 ChatGPT 무료 사용자를 위한 더 많은 도구 소개
-
+---
+title: GPT-4o 및 ChatGPT 무료 사용자를 위한 더 많은 도구 소개-OpenAI
+date: 2024-05-14
+category: news
+layout: post
+mermaid: true
+---
 출처 : [GPT-4o 및 ChatGPT 무료 사용자를 위한 더 많은 도구 소개-OpenAI](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 
 # TL;DR
