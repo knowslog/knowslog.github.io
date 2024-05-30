@@ -1,7 +1,7 @@
 ---
-title: MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
+title: MoRA High-Rank Updating for Parameter-Efficient Fine-Tuning
 date: 2024-05-29
-category: news
+category: paper
 layout: post
 mermaid: true
 ---
